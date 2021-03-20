@@ -1,2 +1,2 @@
-# FillerSkipper
-A chrome extension that skips filler episodes
+<p align="center">![Ingmar's super cool banner uwu](https://github.com/K1ngmar/FillerSkipper/blob/main/logo/fs64.png)</p>
+
