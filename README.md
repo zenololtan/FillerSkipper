@@ -1,2 +1,3 @@
-<p align="center"> ![Ingmar's super cool banner uwu](https://github.com/K1ngmar/FillerSkipper/blob/main/logo/fs64.png) </p>
-
+<p align="center">
+  <img alt="FS logo" src="https://github.com/K1ngmar/FillerSkipper/blob/main/logo/fs64.png" />
+</p>
