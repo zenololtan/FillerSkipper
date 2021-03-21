@@ -1,4 +1,4 @@
-// when ran on animefillerlist.com it will parse the filler episodes to json
+// when ran on animefillerlist.com it will parse the filler episodes to json format
 
 var collection = document.getElementsByClassName('filler');
 var i;
