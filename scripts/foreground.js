@@ -5,10 +5,4 @@ function getShow() {
 	return show;
 }
 
-function getJson(show) {
-	fetch()
-	.then(response => {
-		return response.json();
-	})
-}
-console.log('i fukcing injected cunt');
+console.log('i injected');
